@@ -1,5 +1,7 @@
 # Movie Recommender System
 
+![image](https://github.com/user-attachments/assets/e364af73-2d55-4d5d-aa1c-5411eca5dc49)
+
 ## Overview
 This Movie Recommender System is a Python-based project designed to suggest movies to users based on their preferences. By leveraging Natural Language Processing (NLP) and machine learning algorithms, the system analyzes movie metadata to recommend films that align with user interests.
 
