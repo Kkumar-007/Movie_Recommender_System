@@ -12,12 +12,13 @@ This Movie Recommender System is a Python-based project designed to suggest movi
 
 ## Technologies Used
 Programming Language: Python
-Libraries:
-Pandas: For data manipulation and analysis
-NumPy: For numerical operations
-Scikit-Learn: For implementing machine learning algorithms
-NLTK: For natural language processing 
-AST: For parsing and evaluating expressions
+Libraries used:
+1. Pandas: For data manipulation and analysis
+2. NumPy: For numerical operations
+3. Scikit-Learn: For implementing machine learning algorithms
+4. NLTK: For natural language processing 
+5. AST: For parsing and evaluating expressions
+6. Streamlit: For webpage
 
 ## Future Enhancements
 1. Collaborative Filtering: Add a collaborative filtering approach to combine with content-based filtering.
