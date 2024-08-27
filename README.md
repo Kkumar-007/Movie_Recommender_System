@@ -11,7 +11,7 @@ This Movie Recommender System is a Python-based project designed to suggest movi
 3. Efficient Computation: Handles large movie datasets with optimized data processing techniques.
 
 ## Technologies Used
-Programming Language: Python
+Programming Language: Python  
 Libraries used:
 1. Pandas: For data manipulation and analysis
 2. NumPy: For numerical operations
